@@ -6,6 +6,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a> &nbsp
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
  <br>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
